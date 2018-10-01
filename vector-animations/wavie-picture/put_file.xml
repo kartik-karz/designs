@@ -1,0 +1,5 @@
+<ImageView                                  
+    android:layout_width="100dp"            
+    android:layout_height="50dp"            
+    android:onClick="animate"               
+    app:srcCompat="@drawable/heart_rate" />
